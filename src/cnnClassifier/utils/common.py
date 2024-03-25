@@ -1,6 +1,6 @@
 import os
 import yaml
-from src.cnnClassifier import logger
+from cnnClassifier import logger
 import json
 import joblib
 from ensure import ensure_annotations

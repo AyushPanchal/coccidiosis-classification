@@ -1,5 +1,5 @@
 import os
-from src.cnnClassifier.config.configuration import PrepareCallbacksConfig
+from cnnClassifier.config.configuration import PrepareCallbacksConfig
 import tensorflow as tf
 import time
 
